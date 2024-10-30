@@ -29,7 +29,7 @@ Python 3.9 version with Anaconda 3 is used for development.
 
 ## Quick demo
 You can try quick demo at `demo` folder. 
-* Download the pre-trained PoseNet in [here](https://).
+* Download the pre-trained model in [here](https://).
 * Prepare `input.jpg` and pre-trained snapshot at `demo` folder.
 * Set `bbox_list` at [here]().
 * Set `root_depth_list` at [here]().
