@@ -9,7 +9,7 @@ CP3D & CVRE of "3D pose estimation dataset and deep learning-based ergonomic ris
 </p>
 
 <p align="middle">
-<img src="assets/output_pose_2d_1.jpg" width="200" height="150"> <img src="assets/output_pose_2d_1.jpg" width="200" height="150">
+<img src="assets/output_pose_2d_1.jpg" width="200" height="150"> <img src="assets/2.png" width="200" height="150">
 </p>
 
 ## Introduction
