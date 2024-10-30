@@ -25,7 +25,7 @@ This repo is an official **[PyTorch](https://pytorch.org)** implementation of **
 
 This code was developed & tested under Ubuntu 22.04, Pytorch 1.12.1, CUDA 11.6 environment with two NVIDIA A5000 GPUs.
 
-Python 3.9.13 version with Anaconda 3 is used for development. The other requirements can be found at [here](src="requirements.yaml")
+Python 3.9.13 with Anaconda 3 was used for development. The other requirements can be found at [here](requirements.yaml)
 
 ## Quick demo
 You can try quick demo at `demo` folder. 
