@@ -1,5 +1,5 @@
 # CP3D
-Construction Pose 3D(CP3D) is a publically available dataset specifically designed for 3D construction worker pose estimation. It includes around 0.5 million annotated 3D samples for 14 common construction activities. There are 7 human subjects/actors in the dataset. The dataset was captured with a Vicon motion capture system in a lab setting. The dataset and code will be made public once the paper is published. Please email xinming1@ualberta.ca to ask for the link to download the dataset and codes.
+Construction Pose 3D(CP3D) is a publically available dataset specifically designed for 3D construction worker pose estimation. It includes around 0.5 million annotated 3D samples for 14 common construction activities. There are 7 human subjects/actors in the dataset. The dataset was captured with a Vicon motion capture system in a lab setting. The dataset and code will be made public once the paper is published. Please email xinming1@ualberta.ca to ask for the link to download the CP3D dataset.
 
 
 CP3D & CVRE of "3D pose estimation dataset and deep learning-based ergonomic risk assessment in construction"
