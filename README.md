@@ -14,7 +14,7 @@ CP3D & CVRE of "3D pose estimation dataset and deep learning-based ergonomic ris
 
 ## Introduction
 
-This repo is official **[PyTorch](https://pytorch.org)** implementation of **[3D pose estimation dataset and deep learning-based ergonomic risk assessment in construction.](https://doi.org/10.1016/j.autcon.2024.105452)**.
+This repo is an official **[PyTorch](https://pytorch.org)** implementation of **[3D pose estimation dataset and deep learning-based ergonomic risk assessment in construction.](https://doi.org/10.1016/j.autcon.2024.105452)**.
 
 ## Dependencies
 * [PyTorch](https://pytorch.org)
@@ -23,9 +23,9 @@ This repo is official **[PyTorch](https://pytorch.org)** implementation of **[3D
 * [Anaconda](https://www.anaconda.com/download/)
 * [COCO API](https://github.com/cocodataset/cocoapi)
 
-This code is tested under Ubuntu 22.04, CUDA 11.6, cuDNN 7.1 environment with two NVIDIA A5000 GPUs.
+This code was developed & tested under Ubuntu 22.04, Pytorch 1.12.1, CUDA 11.6 environment with two NVIDIA A5000 GPUs.
 
-Python 3.9 version with Anaconda 3 is used for development.
+Python 3.9.13 version with Anaconda 3 is used for development. The other requirements can be found at [here](src="requirements.yaml")
 
 ## Quick demo
 You can try quick demo at `demo` folder. 
