@@ -5,7 +5,7 @@ Construction Pose 3D(CP3D) is a publically available dataset specifically design
 CP3D & CVRE of "3D pose estimation dataset and deep learning-based ergonomic risk assessment in construction"
 
 <p align="center">
-<img src="assets/method.tif" width="800" height="300">
+<img src="assets/method.png" width="800" height="300">
 </p>
 
 <p align="middle">
