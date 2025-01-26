@@ -1,4 +1,4 @@
-name: CVRE
+name: CP3D
 channels:
   - defaults
 dependencies:
@@ -99,4 +99,3 @@ dependencies:
     - wcwidth==0.2.5
     - werkzeug==2.2.2
     - zipp==3.10.0
-prefix: /home/engineering.ualberta.ca/cfan3/anaconda3/envs/CVRE
